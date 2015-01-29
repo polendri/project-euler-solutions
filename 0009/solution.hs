@@ -1,6 +1,3 @@
-import Data.List (find)
-import Data.Maybe (fromJust)
-
 main = putStrLn $ show solve
 
 solve :: Int
